@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-color: darkgoldenrod;
+}
+
+h1 {
+    text-align: center;
+    color:white;
+    font-size:60px;
+    background-color:brown;
+}
+p {
+    text-align: center;
+    color:white;
+    font-size:20px;
+    background-color: darkred;
+}
+body{
+    background-image: linear-gradient(to bottom, white, orange);
+}
+nav{
+   display:flex;
+   justify-content:center;
+
+}
+nav a{
+    border:5px solid rgb(255, 187, 0);
+    text-decoration: none;
+    padding:10px;
+    margin:20px;
+    background-color: orange;
+    color:white;
+}
+div{
+    text-align:center;
+
+}
